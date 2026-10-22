@@ -40,6 +40,22 @@ ebadfe4f370b6129402df7107581c7142c916aa7b0fae588540ab16beb5c4cae
 f591275a8f014b29e567529d67c54eb7bb4473db1c38737d6bfd5b3d52c9344e
 fb3630822b70bacb56aa4cec29b5a0e3e9acb3920809e70310a4003385a6d34a
 
+d9dd2c52613a48119274287f0e50758ddaaa772743a6f04692aa9ff734e5a160
+1c13c4bb909d51eb9aae8892140aa94462ba5de0c448128554b9bd845ac752ac
+af1219512c97b93b04995ac9cd8313e564fb1453504c2cde1e7ed7c2f93fae10
+cb4e44908c585b1471ff443b2d1676d785761599cfa62db2b58c36750aa3a0e1
+bfc2cd7280432b754e468a97b6430163bc041a1c39b612b0931eb683253073e0
+44e63214515ae162bfa9e3353cc8109d4f55d258e89fdd708e08d98e6fe089da
+781466e76e25fdbadaf669adb6e47f302693c19c7fd3ce0d5f224dddd3100cdd
+a7678ae3edbc2ccff76549a1ad4035a3fd77c500c40ddd0f65211b3f7b87c5b9
+
+f796eb9ecf516e4f1fafcf89200d9f7d8ddd234f705e63f1bc8fc3ef583f0248
+0097a0406be20544e98e981075427f40789db40fe4a53b1b4523383a945328b7
+2e45277acfde3fb704179476b08f428f66a03670bbdbf2e8ec79c0b0333c009b
+d51f2bd7ffb49c224d8eaec2c8ca1c8ab9fce2fd5fdceea01eb54296c2f47b4d
+425cd7072b5e9386ac94e97fe272980b6ef36240df6b5d77b371ab7378004c83
+b2270c29b3d0a49a716730d6ef108cffec0b1a4b159dd02e93333fb85e492b99
+
 chat.doctecsolutions.com
 design.devminelimited.com
 planner.devminelimited.com
@@ -112,8 +128,26 @@ d21gcldn8gp80l.cloudfront.net
 dydjjnnjg7jeb.cloudfront.net
 d3q4tlm7pw29zr.cloudfront.net
 
+ht.zhengbandian.com
+www.helloharmonyos.com
+jiekou.baojingtextile.cn
+er.s136-nak80.com
+d3s06yhcwfnwcx.cloudfront.net
+d21gcldn8gp80l.cloudfront.net
+dydjjnnjg7jeb.cloudfront.net
+d3q4tlm7pw29zr.cloudfront.net
+d121gpdd3pu37l.cloudfront.net
+
 http://43.225.157.157:8766/request_token
 https://d3s06yhcwfnwcx.cloudfront.net/apk-fortress/latest.apk
+http://134.122.153.8:18085/api/channel/query
+http://134.122.153.8:18086
+https://www.helloharmonyos.com/api/channel/query
+https://www.helloharmonyos.com/api/devinfo/addComment?deviceid=
+http://43.225.157.157:8766/request_token
+https://d3s06yhcwfnwcx.cloudfront.net/apk-fortress/latest.apk
+https://d121gpdd3pu37l.cloudfront.net/apk-fortress/latest.apk
+  
 
 /data/lib/liblog.so
 8015f34dc84922b03688399d7f9fe7a00361789f7e420c7e2a2cdb23e75cef84
